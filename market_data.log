@@ -1,0 +1,26 @@
+2025-04-20 20:16:06,599 - INFO - Found 2 tickers
+2025-04-20 20:16:06,614 - INFO - Connected to MT5 account: 104801267 (Exness-MT5Real15)
+2025-04-20 20:16:06,618 - INFO - Successfully fetched 100 candles for XAUUSDm
+2025-04-20 20:16:06,788 - INFO - ✅ XAUUSDm data written to 'XAUUSDm Data' in finance_data.xlsx.
+2025-04-20 20:16:06,918 - INFO - Updated status for ticker: XAUUSDm
+2025-04-20 20:16:06,929 - INFO - Connected to MT5 account: 104801267 (Exness-MT5Real15)
+2025-04-20 20:16:06,932 - INFO - Successfully fetched 100 candles for GBPJPYm
+2025-04-20 20:16:07,103 - INFO - ✅ GBPJPYm data written to 'GBPJPYm Data' in finance_data.xlsx.
+2025-04-20 20:16:07,245 - INFO - Updated status for ticker: GBPJPYm
+2025-04-20 20:16:07,419 - INFO - 📊 Overview sheet updated with charts.
+2025-04-20 20:16:07,419 - INFO - Market data update completed successfully
+2025-04-20 20:17:23,223 - INFO - Found 3 tickers
+2025-04-20 20:17:23,239 - INFO - Connected to MT5 account: 104801267 (Exness-MT5Real15)
+2025-04-20 20:17:23,242 - INFO - Successfully fetched 100 candles for XAUUSDm
+2025-04-20 20:17:23,439 - INFO - ✅ XAUUSDm data written to 'XAUUSDm Data' in finance_data.xlsx.
+2025-04-20 20:17:23,574 - INFO - Updated status for ticker: XAUUSDm
+2025-04-20 20:17:23,585 - INFO - Connected to MT5 account: 104801267 (Exness-MT5Real15)
+2025-04-20 20:17:23,588 - INFO - Successfully fetched 100 candles for GBPJPYm
+2025-04-20 20:17:23,766 - INFO - ✅ GBPJPYm data written to 'GBPJPYm Data' in finance_data.xlsx.
+2025-04-20 20:17:23,898 - INFO - Updated status for ticker: GBPJPYm
+2025-04-20 20:17:23,909 - INFO - Connected to MT5 account: 104801267 (Exness-MT5Real15)
+2025-04-20 20:17:23,962 - INFO - Successfully fetched 100 candles for TSLAm
+2025-04-20 20:17:24,149 - INFO - ✅ TSLAm data written to 'TSLAm Data' in finance_data.xlsx.
+2025-04-20 20:17:24,327 - INFO - Updated status for ticker: TSLAm
+2025-04-20 20:17:24,567 - INFO - 📊 Overview sheet updated with charts.
+2025-04-20 20:17:24,567 - INFO - Market data update completed successfully
